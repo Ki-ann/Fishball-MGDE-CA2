@@ -1,7 +1,7 @@
 A Gyroscope/Accelerometer mobile Unity game
 
 Galaxy Gladiators[PlaceHolder Title]
-![Concept](Concept.png)
+![Concept](Images/Concept.png)
 
 ## Getting Started
 
